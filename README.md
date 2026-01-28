@@ -87,6 +87,7 @@ You should see the message:
 Server running on port 3000 Mongoose Connected Successfully!
 
 ### 📂 Folder Structure
+```bash
 server/
 ├── node_modules/
 ├── .env                # Environment variables (Do not commit this)
