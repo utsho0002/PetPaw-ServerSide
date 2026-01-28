@@ -7,7 +7,7 @@
 This is the **Backend Server** for the PawMart application. It is a RESTful API built with Node.js and Express that manages data for pet services, user orders, and dashboard analytics. It connects to a MongoDB database using Mongoose for structured data modeling.
 
 🔗 **Client-Side Repository:** [https://github.com/utsho0002/PetPaw-clientSide](https://github.com/utsho0002/PetPaw-clientSide)  
-🔗 **Live API URL:** [Insert Your Vercel/Render Link Here if deployed]
+🔗 **Live API URL:** [ https://petpaw-1688a.web.app/]
 
 ---
 
