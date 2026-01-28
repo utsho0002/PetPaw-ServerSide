@@ -61,15 +61,14 @@ This is the **Backend Server** for the PawMart application. It is a RESTful API 
 Follow these steps to run the server locally.
 
 ### 1. Clone the Repository
-```bash
+
 git clone [https://github.com/utsho0002/](https://github.com/utsho0002/)[Your-Server-Repo-Name].git
 cd [Your-Server-Repo-Name]
 
 ### 2. Install Dependencies
-```bash
 npm install
 
-3. Environment Variables
+### 3. Environment Variables
 Create a .env file in the root folder. You need to configure your MongoDB credentials here.
 
 Code snippet: 
@@ -77,7 +76,7 @@ DB_USER=your_mongodb_username
 DB_PASS=your_mongodb_password
 (Note: The database name is configured automatically in the connection string as pet_store).
 
-4. Run the Server
+### 4. Run the Server
 
 node index.js
 
@@ -87,16 +86,16 @@ nodemon index.js
 You should see the message:
 Server running on port 3000 Mongoose Connected Successfully!
 
-📂 Folder Structure
+### 📂 Folder Structure
 server/
 ├── node_modules/
 ├── .env                # Environment variables (Do not commit this)
 ├── index.js            # Main server file (Routes & DB Connection)
 ├── package.json        # Dependencies list
 └── README.md           # Documentation
-🤝 Contact
-Utsho
 
+### 🤝 Contact
+Utsho
 GitHub: utsho0002
 
 This project is the backend service for the PawMart Full Stack Application.
