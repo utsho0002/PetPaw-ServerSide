@@ -60,7 +60,7 @@ This is the **Backend Server** for the PawMart application. It is a RESTful API 
 
 Follow these steps to run the server locally.
 
-### 1. Clone the Repository
+1. Clone the Repository
 ```bash
 git clone [https://github.com/utsho0002/](https://github.com/utsho0002/)[Your-Server-Repo-Name].git
 cd [Your-Server-Repo-Name]
